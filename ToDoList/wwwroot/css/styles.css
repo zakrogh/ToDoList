@@ -1,4 +1,14 @@
 body {
-  margin: 0 auto;
-  max-width: 1200px;
+  font-display: 18px;
+  color:  rgb(116, 89, 89);
+
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.jumbotron {
+  background-color: aqua;
+  border: 1em solid burlywood;
+}
+h2 {
+  color: brown;
 }
